@@ -7,7 +7,7 @@ function ContactList() {
   const dispatch = useDispatch();
 
   const listForRender = useSelector(contactsSelectors.getFilteredContacts);
-  console.log(`qweqeqwe`);
+
   return (
     <ul className={s.list}>
       {listForRender.map(({ name, number, id }) => {

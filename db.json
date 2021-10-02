@@ -1,24 +1,19 @@
 {
   "contacts": [
     {
-      "id": "1",
-      "name": "Rosie Simpson",
-      "number": "459-12-56"
-    },
-    {
-      "id": "4",
-      "name": "Annie Copeland",
-      "number": "227-91-26"
+      "name": "Rosie",
+      "number": "32456789",
+      "id": "UPQS2L0"
     },
     {
       "name": "bogdan",
       "number": "+380504122905",
-      "id": "ZqZVsY0"
+      "id": "n_EYZXW"
     },
     {
       "name": "bogdanq",
-      "number": "+380504122905",
-      "id": "1QXkf5o"
+      "number": "12323",
+      "id": "a2e668i"
     }
   ]
 }
