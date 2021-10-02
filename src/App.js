@@ -11,6 +11,7 @@ function App() {
   useEffect(() => {
     dispatch(contactsOperations.fetchContacts());
   }, [dispatch]);
+
   return (
     <Container>
       <Phonebook />
